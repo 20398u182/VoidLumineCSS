@@ -1,0 +1,10 @@
+[Adblock Plus 2.0]
+! Title: My Custom Adblock List
+! Version: 1.0
+! Last modified: 2025-04-09
+! Expires: 4 days
+
+||topup.bot/promotionals/TopupBothPC.webp$image^
+||topup.bot/promotionals/TopupGI.webp^
+||topup.bot/promotionals^
+||topup.bot^
