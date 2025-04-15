@@ -9,11 +9,12 @@
  */
 /* IMPORT CSS */
 @import url("https://clearvision.github.io/ClearVision-v7/main.css");
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@100;300;400;500;700&display=swap');
 @import url("https://clearvision.github.io/ClearVision-v7/vencord.css");
 /* SETTINGS */
 :root {
   /* ACCENT COLORS */
-  --main-color: #2780e6;
+  --main-color: #2B76CB;
   --hover-color: #1e63b3;
   --success-color: #43b581;
   --danger-color: #982929;
@@ -24,8 +25,8 @@
   --streaming-color: #593695;
   --offline-color: #808080;
   /* APP BACKGROUND */
-  --background-shading-percent: 100%;
-  --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+  --background-shading-percent: 25%;
+  --background-image: url('https://i.imgur.com/GsJNmPQ.jpg');
   --background-attachment: fixed;
   --background-filter: saturate(calc(var(--saturation-factor, 1) * 1));
   /* USER POPOUT BACKGROUND */
@@ -39,8 +40,8 @@
   /* HOME ICON */
   --home-icon: url(https://clearvision.github.io/icons/discord.svg);
   /* FONTS */
-  --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
+  --main-font: Source Sans Pro;
+  --code-font: Consolas;
 }
 
 /* THEME SPECIFIC SHADING */
