@@ -90,3 +90,39 @@
 }
 
 /* ADD ADDITIONAL CSS BELOW HERE */
+
+.visual-refresh { --custom-app-top-bar-height: 0 }
+
+/* Ellipsis for the channel description */
+.subtitleContainer_f75fb0 span {
+  display: inline-block; 
+  width: 400px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+/* Renders channel name, description, search, and the buttons near it at 0 level */
+.subtitleContainer_f75fb0 {
+  z-index: 0;
+}
+
+/* Moves the search bar and the buttons to the left */
+/* Increasing the right will make it move left for whatever reason */
+.toolbar__9293f {
+  position: absolute;
+  right: 15%;
+}
+
+/* Mail box */
+/* Increasing the left will make it move right for whatever reason */
+.trailing_c38106 {
+  position: absolute;
+  left: 91%; 
+  top: 7.5px; 
+}
+
+/* Hides the ? button next to Mail Box */
+.anchor_edefb8 {
+display: none;
+}
