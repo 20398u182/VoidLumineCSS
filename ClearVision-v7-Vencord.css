@@ -133,3 +133,8 @@
   font-size: 13.5px;
   height: 18px;
 }
+
+/*Make the stupid padding waste less space*/
+.visual-refresh {
+    --custom-guild-list-width: calc(var(--guildbar-avatar-size) + var(--custom-guild-list-padding)*1.1);
+}
