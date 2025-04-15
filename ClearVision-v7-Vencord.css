@@ -168,3 +168,8 @@
 .item__58105 {
     box-shadow: none !important;
 }
+
+/* try to remove box shadow */
+.visual-refresh:not(.visual-refresh-chat-input) .channelTextArea__74017 {
+    box-shadow: 0 0 0 2px var(--hsl-input-border-shading) !important;
+}
