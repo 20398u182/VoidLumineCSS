@@ -90,7 +90,3 @@
 }
 
 /* ADD ADDITIONAL CSS BELOW HERE */
-/* Hide help button */
-div[aria-label="Help"]{
-  display: none !important;
-}
