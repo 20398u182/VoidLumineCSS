@@ -138,3 +138,19 @@
 .visual-refresh {
     --custom-guild-list-width: calc(var(--guildbar-avatar-size) + var(--custom-guild-list-padding)*1.1);
 }
+
+
+/* Make the pinned messages dropdown actually drop all the way down because the retards at HQ decided it should max out at 80% */
+.visual-refresh .messagesPopoutWrap__45690 {
+    max-height: 95vh!important;
+}
+
+/* Make the pinned messages header a reasonable size */
+.header__45690 {
+    position: relative;
+    padding: 8px;
+}
+
+.visual-refresh .header__45690 {
+    border-bottom: 0px solid var(--border-subtle);
+}
