@@ -154,3 +154,8 @@
 .visual-refresh .header__45690 {
     border-bottom: 0px solid var(--border-subtle);
 }
+
+/* Remove retarded capitalisation rules that even Wikipedia banned */
+.barBase__0f481 {
+    text-transform: none;
+}
