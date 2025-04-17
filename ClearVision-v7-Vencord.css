@@ -178,3 +178,8 @@
 .subtitleContainer_f75fb0 span {
     display: inline;
 }
+
+/* fixes pins being long (who put it at 400px? wtf?) */
+.subtitleContainer_f75fb0 span {
+    width: 25%;
+}
