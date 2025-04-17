@@ -173,3 +173,8 @@
 .visual-refresh:not(.visual-refresh-chat-input) .channelTextArea__74017 {
     box-shadow: 0 0 0 2px var(--hsl-input-border-shading) !important;
 }
+
+/* fixes the super weird serach bar glitch */
+.subtitleContainer_f75fb0 span {
+    display: inline;
+}
