@@ -8,3 +8,5 @@
 ||topup.bot/promotionals/TopupGI.webp^
 ||topup.bot/promotionals^
 ||topup.bot^
+! ------------------------Specific element hiding rules------------------------!
+fandom.com##.wds-mobile-drawer
