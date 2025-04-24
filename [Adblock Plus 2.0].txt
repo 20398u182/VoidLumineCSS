@@ -10,3 +10,4 @@
 ||topup.bot^
 ! ------------------------Specific element hiding rules------------------------!
 fandom.com##.wds-mobile-drawer
+fandom.com##.trfc161
