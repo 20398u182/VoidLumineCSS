@@ -11,3 +11,4 @@
 ! ------------------------Specific element hiding rules------------------------!
 fandom.com##.wds-mobile-drawer
 fandom.com##.trfc161
+fandom.com##.trfc161:has-text(Quick Answers)
