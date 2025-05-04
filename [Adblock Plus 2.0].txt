@@ -12,3 +12,5 @@
 fandom.com##.wds-mobile-drawer
 fandom.com##.trfc161
 fandom.com##.trfc161:has-text(Quick Answers)
+genshin-impact.fandom.com##.marketing-notification__container
+genshin-impact.fandom.com##.wds-mobile-drawer
