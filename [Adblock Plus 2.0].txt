@@ -22,3 +22,5 @@ fandom.com##.instant-suggestion
 fandom.com##.top-ads-container
 fandom.com##.ad-slot-wrapper
 fandom.com##li.top-results__item span:has-text(Sponsored):upward(li)
+fandom.com##.ad-slot-placeholder.bottom-leaderboard.is-loading
+fandom.com##.notifications-box
