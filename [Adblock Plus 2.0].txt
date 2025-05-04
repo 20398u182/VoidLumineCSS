@@ -4,15 +4,9 @@
 ! Last modified: 2025-04-24
 ! Expires: 4 days
 
-||topup.bot/promotionals/TopupBothPC.webp$image^
-||topup.bot/promotionals/TopupGI.webp^
-||topup.bot/promotionals^
-||topup.bot^
 fandom.com##.wds-mobile-drawer
 fandom.com##.trfc161
 fandom.com##.trfc161:has-text(Quick Answers)
-genshin-impact.fandom.com##.marketing-notification__container
-genshin-impact.fandom.com##.wds-mobile-drawer
 fandom.com##+js(set, wgAffiliateEnabled, false)
 fandom.com##+js(set, ads, null)
 fandom.com##[id^="siderail_"][id*="_gamepedia"]
@@ -23,3 +17,13 @@ fandom.com##.ad-slot-wrapper
 fandom.com##li.top-results__item span:has-text(Sponsored):upward(li)
 fandom.com##.ad-slot-placeholder.bottom-leaderboard.is-loading
 fandom.com##.notifications-box
+fandom.com##div.notifications-box
+fandom.com##div.top-ads-container
+fandom.com##div.wds-mobile-drawer__header.wds-mobile-drawer__header--pills
+genshin-impact.fandom.com##.marketing-notification__container
+genshin-impact.fandom.com##.wds-mobile-drawer
+
+||topup.bot/promotionals/TopupBothPC.webp$image^
+||topup.bot/promotionals/TopupGI.webp^
+||topup.bot/promotionals^
+||topup.bot^
