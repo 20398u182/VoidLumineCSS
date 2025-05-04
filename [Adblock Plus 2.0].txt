@@ -5,14 +5,8 @@
 ! Expires: 4 days
 
 fandom.com##.wds-mobile-drawer
-fandom.com##+js(set, wgAffiliateEnabled, false)
-fandom.com##+js(set, ads, null)
-fandom.com##[id^="siderail_"][id*="_gamepedia"]
-fandom.com###bodyContent:style(width:100% !important)
-fandom.com##.instant-suggestion
 fandom.com##.top-ads-container
 fandom.com##.ad-slot-wrapper
-fandom.com##li.top-results__item span:has-text(Sponsored):upward(li)
 fandom.com##.ad-slot-placeholder.bottom-leaderboard.is-loading
 fandom.com##.notifications-box
 fandom.com##div.notifications-box
