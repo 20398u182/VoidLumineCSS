@@ -200,5 +200,5 @@
 /* Darker read channel */
 .name__2ea32 {
     transition: all .15s ease-in-out;
-    color: var(--channels default);
+    color: var(--channels-default);
 }
