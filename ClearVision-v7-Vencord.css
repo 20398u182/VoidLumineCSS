@@ -196,3 +196,8 @@
 .expandedFolderBackground__48112 {
     left: 5px;
 }
+
+/* Darker read channel */
+.name__2ea32 {
+    transition: all .15s ease-in-out;
+    color: var(--channels default);
