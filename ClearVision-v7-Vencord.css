@@ -183,3 +183,16 @@
 .subtitleContainer_f75fb0 span {
     width: 25%;
 }
+
+/*Make context menu more compact */
+
+:where(.visual-refresh) .labelContainer_c1e9c4 {
+    padding: unset;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+/* fix folder in server icons being misaligned */
+.expandedFolderBackground__48112 {
+    left: 5px;
+}
