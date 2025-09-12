@@ -135,8 +135,8 @@ style attribute {
     --custom-app-panels-height: 65px !important;
 }
 
-.inTextChannel_b88801.base_b88801.typing_b88801 {
-  position: absolute; /* so ::after can be positioned relative to it */
+.inTextChannel_b88801.base_b88801.typing_b88801::after {
+  position: relative; /* so ::after can be positioned relative to it */
 }
 
 .inTextChannel_b88801.base_b88801.typing_b88801::after {
