@@ -144,6 +144,7 @@ style attribute {
   /* add background, border, transform, etc. */
   height: 12px !important;
   bottom: 3px;
+  top: 0px;
 }
 
 .align-chat-input .inTextChannel_b88801.base_b88801 {
@@ -159,10 +160,10 @@ style attribute {
     height: 1.7rem;
 }
 
-.form_f75fb0 {
+/* .form_f75fb0 {
   bottom:20px;
 }
-
+*/ 
 .align-chat-input {
     --custom-channel-textarea-text-area-height: 42px;
 }
