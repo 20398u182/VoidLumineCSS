@@ -147,10 +147,15 @@ style attribute {
   top: 0px;
 }
 
-.align-chat-input .inTextChannel_b88801.base_b88801 {
-  top: 10px !important;
-  height:0px !important;
+.inTextChannel_b88801.base_b88801 {
+  top: 0px !important;
+  height: 0px !important;
 }
+
+.form_f75fb0 {
+    top: -10px !important;
+}
+
 
 .align-chat-input .container_c48ade {
     --custom-chat-input-margin-bottom: 0px;
