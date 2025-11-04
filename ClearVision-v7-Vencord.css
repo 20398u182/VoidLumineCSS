@@ -184,7 +184,7 @@ style attribute {
 
 
 /* Make the pinned messages dropdown actually drop all the way down because the retards at HQ decided it should max out at 80% */
-.visual-refresh .messagesPopoutWrap__45690 {
+.messagesPopoutWrap_e8b59c {
     max-height: 95vh!important;
 }
 
