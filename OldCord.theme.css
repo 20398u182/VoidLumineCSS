@@ -16,6 +16,7 @@
 @import url("https://milbits.github.io/oldcord/src/components/other.css");*/ /* Random stuff that add to the theme 
 @import url("https://milbits.github.io/oldcord/src/components/profile.css");*/ /* Restores the original 2020 Profile UI. Disables cosmetics by default, look at "addons" below 
 @import url("https://milbits.github.io/oldcord/src/components/redesign.css");*/ /* The old Discord layout, pre-2025. 
+@import url ("https://raw.githubusercontent.com/20398u182/VoidLumineCSS/refs/heads/main/ClearVision-v7-Vencord.css");
 
 
  /*
