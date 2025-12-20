@@ -251,6 +251,9 @@
 
 /*Anti-Nitro*/
 [data-settings-sidebar-item="nitro_panel"] { display: none !important; }
+._5d473ecff348c314-premiumIcon {
+    display:none;
+}
 
 /*In appearance panel*/
 .a1d343a407a39907-container {
