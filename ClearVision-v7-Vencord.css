@@ -235,6 +235,9 @@
 ._2ea32c412048f708-unread {
     box-shadow:none !important;
 }
+._581051df43c5ebb6-item {
+    box-shadow:none;
+}
 
 /* No smaller font size for threads */
 ._2ea32c412048f708-typeThread ._2ea32c412048f708-name {
