@@ -240,3 +240,17 @@
 ._2ea32c412048f708-typeThread ._2ea32c412048f708-name {
     font-size: unset !important;
 }
+
+/*Anti-Nitro*/
+[data-settings-sidebar-item="nitro_panel"] { display: none !important; }
+
+/*In appearance panel*/
+.a1d343a407a39907-container {
+    display:none;
+}
+.fbfab602fa801e7a-colorThemesBackground {
+    display:none;
+}
+._6b52d39a14c2d258-selectionGroup {
+    display:none;
+}
