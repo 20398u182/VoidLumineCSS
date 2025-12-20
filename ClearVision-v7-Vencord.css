@@ -235,3 +235,8 @@
 ._2ea32c412048f708-unread {
     box-shadow:none !important;
 }
+
+/* No smaller font size for threads */
+._2ea32c412048f708-typeThread ._2ea32c412048f708-name {
+    font-size: unset !important;
+}
