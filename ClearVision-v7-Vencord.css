@@ -241,6 +241,11 @@
     font-size: unset !important;
 }
 
+/* Hide x in voice balloon */
+._7aaec78b97ff00f7-voiceBar {
+    display:none;
+}
+
 /*Anti-Nitro*/
 [data-settings-sidebar-item="nitro_panel"] { display: none !important; }
 
