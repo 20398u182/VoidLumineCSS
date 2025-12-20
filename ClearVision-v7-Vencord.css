@@ -225,3 +225,13 @@
 ._32c75a165652a80d-header {
     display:none;
 }
+
+/* Dimmer read channel background */
+._2ea32c412048f708-name {
+    color:gray
+}
+
+/* No unread glow */
+._2ea32c412048f708-unread {
+    box-shadow:none !important;
+}
