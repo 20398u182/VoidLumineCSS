@@ -91,8 +91,137 @@
 
 /* ADD ADDITIONAL CSS BELOW HERE */
 
+/* Clan Tag opacity */
+.c19a557985eb7793-clanTagChiplet {
+    opacity:20% !important
+}
+
+._10651c5cfe637db6-chipletContainerInline {
+    opacity:20%;
+}
+
+/*Removes stupid flashy nitro themes in sidebar*/
+._4bbc6dc06e75ad52-container {
+    display:none;
+}
+
+/*Removes stupid flashy nitro themes and pfp decoration in user profile panel*/
+._0137000bc80ab6ea-profileEffects {
+    display:none;
+}
+
+._44b0c28be7879b7b-avatarDecoration {
+    display:none;
+}
+
+/* reverts retarded top bar implementation by setting height to zero and hiding */
 .visual-refresh { --custom-app-top-bar-height: 0 }
+.c38106a3f0c3ca76-leading {
+	display:none;
+}
 
+.c38106a3f0c3ca76-title {
+	display:none;
+}
 
+/* Moves typing/slowmode indicator below input */
+.b8880176888cc928-inTextChannel.b8880176888cc928-base {
+	 position: relative;
+	 height: 0px !important;
+ 	 bottom: 6px;
+ 	 top: -10px;
+}
 
+.f75fb00fb7356cbe-channelTextArea {
+	top:-12px;
+}
 
+/* Removes gradient base */
+._36d072eab2b2e737-chatGradientBase {
+    display:none;
+}
+
+/* Fix spacer between text box and messages CHANGE WITH RESOLUTION */
+._36d072eab2b2e737-scrollerSpacer {
+    height: 5px;
+}
+
+/*Fix text box visibility (clearvision only)*/
+.f75fb00fb7356cbe-form {
+    margin-top: 14px;
+}
+
+/* Inbox location fix CHANGE WITH RESOLUTION*/
+.c38106a3f0c3ca76-trailing {
+	top: 1.5rem;
+    left: 98.8%;
+	z-index: 150;
+	}
+
+._9293f6b2fc12398a-children {
+    max-width: 73.5%;
+}
+
+/* Removes Help Button */
+._85643a485899904b-button {
+    display: none;
+}
+
+/* Gives scroll back to settings and stops it from kmsing */
+.e4491282b6a5364a-modal {
+    overflow: auto;
+}
+
+._8a031a135bfcb9ba-container {
+    width: 100% !important;
+}
+
+/*Fixes bottom left profile panel*/
+._5e434347c823b592-panels {
+    background: hsl(from var(--hsl-background-shading) h s l / calc(var(--background-shading-percent)* 0.5));
+    border-radius: 0;
+    border: none;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    height:65px;
+    padding: 8px;
+}
+
+/* Remove retarded capitalisation rules that even Wikipedia banned */
+._0f481cbbd7530492-barButtonBase {
+    text-transform: none;
+}
+
+/*Make the stupid servers sidebar padding waste less space*/
+.visual-refresh {
+    --custom-guild-list-width: calc(var(--guildbar-avatar-size) + var(--custom-guild-list-padding)*1.1);
+}
+
+/* Make the pinned messages dropdown actually drop all the way down and move it up */
+.e8b59c4b335dd2fc-messagesPopoutWrap {
+    max-height: 100vh!important;
+}
+
+.e8b59c4b335dd2fc-messagesPopoutWrap {
+    top: 0px !important;
+}
+
+._4e35b986167c457d-tooltip {
+    display:none;
+}
+
+/* Make the inbox dropdown actually drop all the way down */
+._957962c2bd49881b-recentMentionsPopout {
+    max-height: 96vh!important;
+}
+
+/*Make context menu more compact*/
+.c1e9c47c23f12ca3-separator{
+ --custom-menu-separator-margin: 3px !important; 
+}
+
+/*Remove Promoted*/
+._32c75a165652a80d-header {
+    display:none;
+}
