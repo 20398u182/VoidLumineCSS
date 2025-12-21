@@ -114,6 +114,10 @@
     display:none;
 }
 
+.c19a557985eb7793-avatarDecoration {
+    display:none;
+}
+
 /* reverts retarded top bar implementation by setting height to zero and hiding */
 .visual-refresh { --custom-app-top-bar-height: 0 }
 .c38106a3f0c3ca76-leading {
