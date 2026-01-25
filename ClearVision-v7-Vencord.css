@@ -199,7 +199,7 @@
 }
 
 /* Make the pinned messages dropdown actually drop all the way down and move it up */
-.messagesPopout_e8b59c {
+.popout_39 {
     max-height: 100vh!important;
 	top: 0px !important;
 }
@@ -208,6 +208,8 @@
 .recentMentionsPopout__95796 {
     max-height: 96vh!important;
 }
+
+    --reference-position-layer-max-height: 982.4000000953674px;
 
 /*Make context menu more compact*/
 .separator_c1e9c4 {
