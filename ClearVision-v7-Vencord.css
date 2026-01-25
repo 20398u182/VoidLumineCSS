@@ -200,7 +200,7 @@
 
 /* Make the pinned messages dropdown actually drop all the way down and move it up */
 .messagesPopoutWrap_e8b59c { 
-	max-height: 100vh!important;
+	max-height: 96vh!important;
 	top: 0px !important;
 }
 
