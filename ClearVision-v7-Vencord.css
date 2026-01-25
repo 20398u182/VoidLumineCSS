@@ -171,9 +171,9 @@
     display: none;
 }
 
-/* Gives scroll back to settings and stops it from kmsing */
-.e4491282b6a5364a-modal {
-    overflow: auto;
+/* Stops settings from kmsing */
+.outerContainer_e44912 {
+	width:1333px !important
 }
 
 ._8a031a135bfcb9ba-container {
