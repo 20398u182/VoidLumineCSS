@@ -176,12 +176,8 @@
 	width:1333px !important
 }
 
-._8a031a135bfcb9ba-container {
-    width: 100% !important;
-}
-
 /*Fixes bottom left profile panel*/
-._5e434347c823b592-panels {
+.panels__5e434 {
     background: hsl(from var(--hsl-background-shading) h s l / calc(var(--background-shading-percent)* 0.5));
     border-radius: 0;
     border: none;
@@ -193,7 +189,7 @@
 }
 
 /* Remove retarded capitalisation rules that even Wikipedia banned */
-._0f481cbbd7530492-barButtonBase {
+.barButtonBase__0f481 {
     text-transform: none;
 }
 
@@ -203,48 +199,36 @@
 }
 
 /* Make the pinned messages dropdown actually drop all the way down and move it up */
-.e8b59c4b335dd2fc-messagesPopoutWrap {
+.messagesPopout_e8b59c {
     max-height: 100vh!important;
-}
-
-.e8b59c4b335dd2fc-messagesPopoutWrap {
-    top: 0px !important;
-}
-
-._4e35b986167c457d-tooltip {
-    display:none;
+	top: 0px !important;
 }
 
 /* Make the inbox dropdown actually drop all the way down */
-._957962c2bd49881b-recentMentionsPopout {
+.recentMentionsPopout__95796 {
     max-height: 96vh!important;
 }
 
 /*Make context menu more compact*/
-.c1e9c47c23f12ca3-separator{
+.separator_c1e9c4 {
  --custom-menu-separator-margin: 3px !important; 
 }
 
-/*Remove Promoted*/
-._32c75a165652a80d-header {
-    display:none;
-}
-
 /* Dimmer read channel background */
-._2ea32c412048f708-name {
+.name__2ea32 {
     color:gray
 }
 
 /* No unread glow */
-._2ea32c412048f708-unread {
+.unread__2ea32 {
     box-shadow:none !important;
 }
-._581051df43c5ebb6-item {
+.item__58105 {
     box-shadow:none;
 }
 
 /* No smaller font size for threads */
-._2ea32c412048f708-typeThread ._2ea32c412048f708-name {
+.typeThread__2ea32 {
     font-size: unset !important;
 }
 
