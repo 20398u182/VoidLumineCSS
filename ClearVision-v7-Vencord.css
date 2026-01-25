@@ -199,7 +199,10 @@
 }
 
 /* Make the pinned messages dropdown actually drop all the way down and move it up */
-[aria-label="Pinned Messages"] { max-height: 100vh!important; top: 0px !important; }
+.messagesPopoutWrap_e8b59c { 
+	max-height: 100vh!important;
+	top: 0px !important;
+}
 
 /* Make the inbox dropdown actually drop all the way down */
 .recentMentionsPopout__95796 {
