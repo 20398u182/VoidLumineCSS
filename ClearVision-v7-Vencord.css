@@ -114,13 +114,13 @@
     display:none;
 }
 
-/* reverts retarded top bar implementation by setting height to zero and hiding */
+/* reverts retarded top bar implementation by setting height to zero and hiding clearvision and titlebar */
 .visual-refresh { --custom-app-top-bar-height: 0 }
-.c38106a3f0c3ca76-leading {
+.leading_c38106 {
 	display:none;
 }
 
-.c38106a3f0c3ca76-title {
+.title_c38106e {
 	display:none;
 }
 
