@@ -97,20 +97,20 @@
 }
 
 /*Removes stupid flashy nitro themes in sidebar*/
-._4bbc6dc06e75ad52-container {
+.container__4bbc6 {
     display:none;
 }
 
 /*Removes stupid flashy nitro themes and pfp decoration in user profile panel*/
-._0137000bc80ab6ea-profileEffects {
+.profileEffects__01370 {
     display:none;
 }
 
-._44b0c28be7879b7b-avatarDecoration {
+.avatarDecorationContainer__44b0c {
     display:none;
 }
 
-.c19a557985eb7793-avatarDecoration {
+.avatarDecoration_c19a55 {
     display:none;
 }
 
