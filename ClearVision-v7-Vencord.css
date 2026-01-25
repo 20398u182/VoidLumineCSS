@@ -125,45 +125,45 @@
 }
 
 /* Moves typing/slowmode indicator below input */
-.b8880176888cc928-inTextChannel.b8880176888cc928-base {
+.inTextChannel_b88801.base_b88801 {
 	 position: relative;
 	 height: 0px !important;
  	 bottom: 6px;
  	 top: -10px;
 }
 
-.f75fb00fb7356cbe-channelTextArea {
+.channelTextArea_f75fb0 {
 	top:-12px;
 }
 
 /* Removes gradient base */
-._36d072eab2b2e737-chatGradientBase {
+.chatGradientBase__36d07 {
     display:none;
 }
 
 /* Fix spacer between text box and messages CHANGE WITH RESOLUTION */
-._36d072eab2b2e737-scrollerSpacer {
+.scrollerSpacer__36d07 {
     height: 5px;
 }
 
 /*Fix text box visibility (clearvision only)*/
-.f75fb00fb7356cbe-form {
+.form_f75fb0 {
     margin-top: 14px;
 }
 
 /* Inbox location fix CHANGE WITH RESOLUTION*/
-.c38106a3f0c3ca76-trailing {
+.clickable_c99c29 {
 	top: 1.5rem;
     left: 98.7%;
 	z-index: 150;
 	}
 
-._9293f6b2fc12398a-children {
+.children__9293f {
     max-width: 71%;
 }
 
 /* Removes Help Button */
-._85643a485899904b-button {
+.button__85643 {
     display: none;
 }
 
