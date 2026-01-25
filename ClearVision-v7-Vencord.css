@@ -199,7 +199,7 @@
 }
 
 /* Make the pinned messages dropdown actually drop all the way down and move it up */
-.popout_40 {
+[aria-label="Pinned Messages"] {
     max-height: 100vh!important;
 	top: 0px !important;
 }
