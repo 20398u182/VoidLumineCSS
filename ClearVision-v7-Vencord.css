@@ -114,6 +114,9 @@
     display:none;
 }
 
+/*removes gift button*/
+[aria-label="Give a Gift"] { display: none !important; }
+
 /* reverts retarded top bar implementation by setting height to zero and hiding clearvision and titlebar */
 .visual-refresh { --custom-app-top-bar-height: 0 }
 .leading_c38106 {
