@@ -130,11 +130,11 @@
 
 /* reverts retarded top bar implementation by setting height to zero and hiding clearvision and titlebar */
 .visual-refresh { --custom-app-top-bar-height: 0 }
-.leading_c38106 {
+.leading_3zSH5d {
 	display:none;
 }
 
-.title_c38106 {
+.title_LnjVAX {
 	display:none;
 }
 
@@ -168,7 +168,7 @@
 /* Inbox location fix CHANGE WITH RESOLUTION*/
 .trailing_3zSH5d {
 	top: 1.5rem;
-    left: 4rem;
+    left: 124.4rem;
 	z-index: 150;
 	}
 
